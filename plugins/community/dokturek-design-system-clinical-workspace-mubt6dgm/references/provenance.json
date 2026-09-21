@@ -1,0 +1,33 @@
+{
+  "candidateId": "9f797a00-2c9e-4435-9c34-84a15311a0b4",
+  "projectId": "brand-dokturek-design-system-clinical-workspace-8dce19",
+  "runId": "d96392f4-c4e9-417c-b52a-c5bdd208eabc",
+  "conversationId": "04c79bc4-4648-4e48-a2a8-80ff8d8829eb",
+  "provenance": {
+    "summary": "Detected from README.md, SKILL.md, context/source-context.md after a successful run.",
+    "detectedAt": 1789647271171
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": "README.md",
+      "label": "README.md",
+      "size": 9361,
+      "copied": true
+    },
+    {
+      "kind": "file",
+      "value": "SKILL.md",
+      "label": "SKILL.md",
+      "size": 6098,
+      "copied": true
+    },
+    {
+      "kind": "file",
+      "value": "context/source-context.md",
+      "label": "context/source-context.md",
+      "size": 12017,
+      "copied": true
+    }
+  ]
+}

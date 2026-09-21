@@ -1,0 +1,22 @@
+{
+  "$schema": "https://open-design.ai/schemas/plugin.v1.json",
+  "specVersion": "1.0.0",
+  "name": "dokturek-design-system-clinical-workspace-mubt6dgm",
+  "title": "DOKTUREK — Design System & Clinical Workspace",
+  "version": "0.1.0",
+  "description": "A reusable design-system package for DOKTUREK, the ambulatory EHR that Dokturek.ai builds for Czech primary care. Tokens, self-hosted fonts, preview cards, an applied UI kit and the preserved source evidence, all measure",
+  "od": {
+    "kind": "skill",
+    "taskKind": "new-generation",
+    "context": {
+      "skills": [
+        {
+          "path": "./SKILL.md"
+        }
+      ]
+    },
+    "capabilities": [
+      "prompt:inject"
+    ]
+  }
+}
